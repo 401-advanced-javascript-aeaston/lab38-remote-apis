@@ -7,8 +7,8 @@
 ### Author: Adrienne Easton
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab38-remote-apis/pull/1)
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab38-remote-apis.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab38-remote-apis)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
